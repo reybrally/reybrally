@@ -1,5 +1,6 @@
-<div align="left">
-  <!-- Технологии -->
+<!-- Секция Tools -->
+<h4 align="left">Tools</h4>
+<div align="left" class="social-icons">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# Logo" />
@@ -11,9 +12,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
+</div>
 
-  <!-- Иконка Telegram с ссылкой -->
-  <a href="https://t.me/NSAA282" target="_blank" rel="noopener noreferrer" style="margin-left:12px;">
+<!-- Секция Contacts -->
+<h4 align="left">Contacts</h4>
+<div align="left">
+  <a href="https://t.me/NSAA282" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
       width="52"
@@ -23,4 +27,4 @@
   </a>
 </div>
 
-<h4 align="left">ITMO University - Software Engineering (IS y27)</h4>
+<h4 align="left">ITMO University - Software Engineering (second year)</h4>
