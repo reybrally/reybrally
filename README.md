@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite Logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="40" alt="Apache Kafka Logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
 </div>
 
@@ -27,4 +29,4 @@
   </a>
 </div>
 
-<h4 align="left">ITMO University - Software Engineering (second year)</h4>
+<h4 align="left">ITMO University - Software Engineering (third year)</h4>
