@@ -10,6 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite Logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/F7931E" height="40" alt="Apache Kafka Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis Logo" />
 </div>
 
 <!-- Секция Contacts -->
